@@ -1,0 +1,7 @@
+c:\users\srinivas.kv\source\repos\SmartPhoneApp\SmartPhoneApp\bin\Debug\SmartPhoneApp.exe.config
+c:\users\srinivas.kv\source\repos\SmartPhoneApp\SmartPhoneApp\bin\Debug\SmartPhoneApp.exe
+c:\users\srinivas.kv\source\repos\SmartPhoneApp\SmartPhoneApp\bin\Debug\SmartPhoneApp.pdb
+c:\users\srinivas.kv\source\repos\SmartPhoneApp\SmartPhoneApp\obj\Debug\SmartPhoneApp.csprojResolveAssemblyReference.cache
+c:\users\srinivas.kv\source\repos\SmartPhoneApp\SmartPhoneApp\obj\Debug\SmartPhoneApp.csproj.CoreCompileInputs.cache
+c:\users\srinivas.kv\source\repos\SmartPhoneApp\SmartPhoneApp\obj\Debug\SmartPhoneApp.exe
+c:\users\srinivas.kv\source\repos\SmartPhoneApp\SmartPhoneApp\obj\Debug\SmartPhoneApp.pdb
